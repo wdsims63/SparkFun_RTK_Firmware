@@ -77,11 +77,11 @@ Don’t get greedy! I pounded the anchor so far that it split the block. Luckily
 
 ![Foundation anchor in place](img/Corrections/Base_Antenna_-_Anchor_installed.jpg)
 
-Once the anchor is ~2 inches into the hole tighten the bolt. This will draw the anchor back up compressing the collar into place. **Note:** I finger tightened the bolt and added a ½ turn with a wrench. If you really go after the bolt and tighten it too much you risk pushing the collar out further and breaking the cinder block in half (see Ooops! picture above). We are not anchoring a wall here, just a [400g antenna](https://www.sparkfun.com/products/21801).
+Once the anchor is ~2 inches into the hole tighten the nut. This will draw the anchor back up compressing the collar into place. **Note:** I finger tightened the nut and added a ½ turn with a wrench. If you really go after the bolt and tighten it too much you risk pushing the collar out further and breaking the cinder block in half (see Ooops! picture above). We are not anchoring a wall here, just a [400g antenna](https://www.sparkfun.com/products/21801).
 
 ![Antenna affixed to the anchor](img/Corrections/Base_Antenna_-_Antenna_attached.jpg)
 
-I used a 2nd bolt, tightened against the antenna base, to lock it into place and prevent rotation in either direction. Astute readers will notice my TNC to SMA adapter in the picture above. It’s the wrong gender. Originally, I used an [SMA extension](https://www.sparkfun.com/products/17495) to connect my [GPS-RTK-SMA](https://www.sparkfun.com/products/16481) to my u-blox L1/L2 antenna on my roof. The GPS-RTK-SMA expects a regular SMA connection so the end of the extension would not connect to this adapter. So before you get out the ladder, test connect everything! Luckily I have a set of adapters and found the right TNC to SMA converter to suit my needs.
+I used a 2nd nut, tightened against the antenna base, to lock it into place and prevent rotation in either direction. Astute readers will notice my TNC to SMA adapter in the picture above. It’s the wrong gender. Originally, I used an [SMA extension](https://www.sparkfun.com/products/17495) to connect my [GPS-RTK-SMA](https://www.sparkfun.com/products/16481) to my u-blox L1/L2 antenna on my roof. The GPS-RTK-SMA expects a regular SMA connection so the end of the extension would not connect to this adapter. So before you get out the ladder, test connect everything! Luckily I have a set of adapters and found the right TNC to SMA converter to suit my needs.
 
 [![An antenna on the roof with Boulder Flatirons](img/Corrections/Antenna_Semi-Fixed_to_roof.jpg)](img/Corrections/Antenna_Semi-Fixed_to_roof.jpg)
 
